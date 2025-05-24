@@ -23,7 +23,7 @@ This repository documents my journey through Data Structures and Algorithms.
 *Topic:* Arrays / In-place Reversal Problem: Reverse an Array (GeeksforGeeks) Description: Implemented a function to reverse the elements of a given array in-place. This was achieved using the std::reverse function from the C++ Standard Template Library, which offers an efficient way to reverse a range of elements. Solution file: Day 3/reverse_array.cpp
 ---
 
-# Day 4 - Rotate Array
+## Day 4 
 
 *Problem:* Rotate an array by d elements in counter-clockwise direction.
 
