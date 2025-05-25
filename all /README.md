@@ -27,12 +27,26 @@ This repository documents my journey through Data Structures and Algorithms.
 
 *Problem:* Rotate an array by d elements in counter-clockwise direction.
 
-*Platform:* [GeeksforGeeks - Rotate Array](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
+*Platform:* [GeeksforGeeks - Rotate Array]
 
 *Solution Language:* C++
 
 *Key Concepts:* Arrays, Rotation, Modulo Arithmetic
 
 *Code File:* rotate_array.cpp
+
+Continue adding entries for subsequent days.
+
+## Day 5
+
+*Problem:* Implement the next lexicographical permutation of the given array.
+
+*Platform:* [GeeksforGeeks – Next Permutation]
+
+*Solution Language:* C++
+
+*Key Concepts:* Arrays, Two Pointers, In-place Swap, STL, Permutations
+
+*Code File:* next_permutation.cpp
 
 Continue adding entries for subsequent days.
