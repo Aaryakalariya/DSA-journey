@@ -62,3 +62,17 @@ Continue adding entries for subsequent days.
 *Code File:* next_permutation.cpp
 
 Continue adding entries for subsequent days.
+
+## Day 6
+
+*Problem*: Find the element that appears more than ⌊ n/3 ⌋ times in the array.
+
+*Platform*: [GeeksforGeeks – Majority Element]
+
+*Solution Language*: C++
+
+*Key Concepts*: Arrays, Voting Algorithm, Frequency Count
+
+*Code File*: majority_element.cpp
+
+Continue adding entries for subsequent days.
