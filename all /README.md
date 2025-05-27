@@ -76,3 +76,17 @@ Continue adding entries for subsequent days.
 *Code File*: majority_element.cpp
 
 Continue adding entries for subsequent days.
+
+## Day 7 
+
+*problem*: stock buy and sell - multiple transactions allowed.
+
+*platform*: [GeeksforGeeks - stock buy and sell - multiple transactions allowed]
+
+*solution language* : C++
+
+*key concepts* : Array , Greedy Algorithm, Profit maximixation 
+
+*code file* : stock Buy and sell - Multiple transactions.cpp 
+
+continue addiing entries for subsequent days.
