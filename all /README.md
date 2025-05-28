@@ -90,3 +90,17 @@ Continue adding entries for subsequent days.
 *code file* : stock Buy and sell - Multiple transactions.cpp 
 
 continue addiing entries for subsequent days.
+
+## Day 8
+
+*Problem*: stock buy and sell - with cooldown
+  
+*Platform*: [GeeksForGeeks - Stock Buy and Sell – Max one Transaction Allowed]
+  
+*Solution Language*: C++
+
+*Key Concepts*: Dynamic Programming, State Machine, Profit Maximization
+  
+*Code File*: Stock Buy and Sell – Max one Transaction Allowed.cpp
+
+continue addiing entries for subsequent days.
