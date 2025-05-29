@@ -104,3 +104,18 @@ continue addiing entries for subsequent days.
 *Code File*: Stock Buy and Sell – Max one Transaction Allowed.cpp
 
 continue addiing entries for subsequent days.
+
+## Day 9
+
+*Problem*: Minimize the Heights II
+  
+*Platform*: [GeeksForGeeks - Minimize the Heights II]
+  
+*Solution Language*: C++
+
+*Key Concepts*: Dynamic Programming, Greedy Approach , Profit Maximization
+  
+*Code File*: Minimize the Heights II.cpp
+
+continue addiing entries for subsequent days.
+
