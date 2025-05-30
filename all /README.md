@@ -119,3 +119,17 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
+## Day 10
+
+*Problem*: Kadane's Algorithm
+  
+*Platform*: [GeeksForGeeks -Kadane's Algorithm]
+  
+*Solution Language*: C++
+
+*Key Concepts*: Dynamic Programming, memoization , string manipulation , graph traversal, Greedy Algorithms , data structures
+  
+*Code File*: Kadane's Algorithm.cpp
+
+continue addiing entries for subsequent days.
+
