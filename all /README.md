@@ -133,3 +133,17 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
+## Day 11
+
+*Problem*: Maximum Product Subarray
+  
+*Platform*: [GeeksForGeeks -Maximum Product Subarray]
+  
+*Solution Language*: C++
+
+*Key Concepts*: Maximum product subarray , Dynamic Programming, tracking max/min product at each step
+  
+*Code File*: Maximum Product Subarray.cpp
+
+continue addiing entries for subsequent days.
+
