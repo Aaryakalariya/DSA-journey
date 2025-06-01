@@ -3,11 +3,11 @@
 
 This repository documents my journey through Data Structures and Algorithms.
 
-## Day 1
+## Day 001
 
 (Assuming you had a Day 1 entry, if not, you can start with Day 2)
 
-## Day 2
+## Day 002
 
 *Topic:* Arrays / Two-Pointer Approach
 
@@ -21,7 +21,7 @@ This repository documents my journey through Data Structures and Algorithms.
 
 continue adding entries for subsequent days. 
 
-## Day 3  
+## Day 003  
 
 *Problem:* Reverse an array in-place.
 
@@ -35,7 +35,7 @@ continue adding entries for subsequent days.
 
 Continue adding entries for subsequent days.
 
-## Day 4 
+## Day 004 
 
 *Problem:* Rotate an array by d elements in counter-clockwise direction.
 
@@ -49,7 +49,7 @@ Continue adding entries for subsequent days.
 
 Continue adding entries for subsequent days.
 
-## Day 5
+## Day 005
 
 *Problem:* Implement the next lexicographical permutation of the given array.
 
@@ -63,7 +63,7 @@ Continue adding entries for subsequent days.
 
 Continue adding entries for subsequent days.
 
-## Day 6
+## Day 006
 
 *Problem*: Find the element that appears more than ⌊ n/3 ⌋ times in the array.
 
@@ -77,7 +77,7 @@ Continue adding entries for subsequent days.
 
 Continue adding entries for subsequent days.
 
-## Day 7 
+## Day 007 
 
 *problem*: stock buy and sell - multiple transactions allowed.
 
@@ -91,7 +91,7 @@ Continue adding entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
-## Day 8
+## Day 008
 
 *Problem*: stock buy and sell - with cooldown
   
@@ -105,7 +105,7 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
-## Day 9
+## Day 009
 
 *Problem*: Minimize the Heights II
   
@@ -119,7 +119,7 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
-## Day 10
+## Day 010
 
 *Problem*: Kadane's Algorithm
   
@@ -133,7 +133,7 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
-## Day 11
+## Day 011
 
 *Problem*: Maximum Product Subarray
   
@@ -144,6 +144,20 @@ continue addiing entries for subsequent days.
 *Key Concepts*: Maximum product subarray , Dynamic Programming, tracking max/min product at each step
   
 *Code File*: Maximum Product Subarray.cpp
+
+continue addiing entries for subsequent days.
+
+## Day 012
+
+*Problem*: Max Circular Subarray Sum
+  
+*Platform*: [GeeksForGeeks -Max Circular Subarray Sum]
+  
+*Solution Language*: C++
+
+*Key Concepts*: dynamic programming, kandane's algorithm, prefix sums .
+  
+*Code File*: Max Circular Subarray Sum.cpp
 
 continue addiing entries for subsequent days.
 
