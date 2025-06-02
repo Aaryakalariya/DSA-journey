@@ -155,9 +155,22 @@ continue addiing entries for subsequent days.
   
 *Solution Language*: C++
 
-*Key Concepts*: dynamic programming, kandane's algorithm, prefix sums .
+*Key Concepts*: dynamic programming, kandane's algorithm, prefix sums.
   
 *Code File*: Max Circular Subarray Sum.cpp
 
 continue addiing entries for subsequent days.
 
+## Day 013
+
+*Problem*: Smallest Positive Missing
+  
+*Platform*: [GeeksForGeeks -Smallest Positive Missing]
+  
+*Solution Language*: C++
+
+*Key Concepts*: Hashing / hash set , in-place array marking.
+  
+*Code File*: Smallest_Positive_Missing.cpp
+
+continue addiing entries for subsequent days.
