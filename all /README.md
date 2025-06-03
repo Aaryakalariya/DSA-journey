@@ -174,3 +174,17 @@ continue addiing entries for subsequent days.
 *Code File*: Smallest_Positive_Missing.cpp
 
 continue addiing entries for subsequent days.
+
+## Day 014
+
+*Problem*: Implement Atoi
+  
+*Platform*: [GeeksForGeeks -Implement Atoi]
+  
+*Solution Language*: C++
+
+*Key Concepts*: string parsing with whitespace skin , sign handling, digit conversion , overflow check
+  
+*Code File*: Implement_Atoi.cpp
+
+continue addiing entries for subsequent days.
