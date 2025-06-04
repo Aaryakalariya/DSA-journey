@@ -188,3 +188,18 @@ continue addiing entries for subsequent days.
 *Code File*: Implement_Atoi.cpp
 
 continue addiing entries for subsequent days.
+
+## Day 015
+
+*Problem*: Add Binary Strings
+  
+*Platform*: [GeeksForGeeks -Add Binary Strings]
+  
+*Solution Language*: C++
+
+*Key Concepts*: simulate binary addition from right to left with carry handling, just like manual addition.
+  
+*Code File*: Add_Binary_Strings.cpp
+
+continue addiing entries for subsequent days.
+
