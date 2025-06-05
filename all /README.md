@@ -203,3 +203,17 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
+## Day 016
+
+*Problem*: Anagram
+  
+*Platform*: [GeeksForGeeks -Anagram]
+  
+*Solution Language*: C++
+
+*Key Concepts*: binary addition rules , carry handling, string traversal , string bulding .
+  
+*Code File*: Anagram.cpp
+
+continue addiing entries for subsequent days.
+
