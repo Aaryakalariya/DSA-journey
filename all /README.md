@@ -217,3 +217,17 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
+## Day 017
+
+*Problem*: Non Repeating Character
+
+*Platform*: [GeeksForGeeks -Non Repeating Character]
+  
+*Solution Language*: C++
+
+*Key Concepts*: rearranging the letters of another , using all the original letters exactly once , meaning they have the same character counts.
+  
+*Code File*: Non_Repeating_Character.cpp
+
+continue addiing entries for subsequent days.
+
