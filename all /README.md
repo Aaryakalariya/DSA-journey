@@ -231,3 +231,17 @@ continue addiing entries for subsequent days.
 
 continue addiing entries for subsequent days.
 
+## Day 018
+
+*Problem*: Search Pattern (KMP-Algorithm)
+
+*Platform*: [GeeksForGeeks -Non Repeating Character]
+  
+*Solution Language*: C++
+
+*Key Concepts*: pattern search, longest prefix suffix (LPS) array, KMP algorithms ,  time complexity , space complexity
+  
+*Code File*: Search_Pattern (KMP-Algorithm).cpp
+
+continue addiing entries for subsequent days.
+
